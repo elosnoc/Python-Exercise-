@@ -1,0 +1,2 @@
+# Python-Exercise-
+หัดเขียน Python
